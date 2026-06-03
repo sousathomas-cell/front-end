@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+*{
+font-family: Arial, Helvetica, sans-serif;
+/*height: 100%; */
+}
+
+body {
+background-image: linear-gradient(to right, #B484D9, #AEA1F0);
+}
+main {/*conteúdo principal do site*/
+background-color: rgb(65, 11, 78);
+width: 600px; /*para fazer a largura*/
+border-radius: 10px; /*para fazer o arredondamento das bordas*/
+box-shadow: 5px 5px 5px rgb(65, 63, 63);
+padding: 10px;
+margin: auto;
+}
+
+h1 {
+color: #B484D9;
+text-align: center;
+text-shadow: 1px 1px 2px #B484D9;
+}
+
+h2 {
+    color: #a84ab4;
+    text-align: center;
+    text-shadow: 1px 1px 2px #68497e;
+    }
+P{
+    text-align: justify;
+    color: #AEA1F0;
+}
